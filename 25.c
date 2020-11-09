@@ -11,7 +11,7 @@ int main() {
 	while(massa>=1.45){
 		massa = massa - (massa * 0.13);
 		seg = seg + 20;
-		printf("passado %d seg a massa e de %.2f\n",seg,massa);
+		printf("passado %d seg a massa e\ de %.2f\n",seg,massa);
 		_sleep(500);
 		
 	}// final do while
