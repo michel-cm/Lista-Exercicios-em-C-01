@@ -1,2 +1,4 @@
-# Lista de exercicios 1
+# Lista de exercicios em C
+
+Sistemas de Informação - IFSULDEMINAS
  
